@@ -8,5 +8,13 @@
     "sha256": "475ef6fdfb4ebe13d0ddcd23c0eafbf245666b7cd5b981994695558533b2212e",
     "notes": "Nueva sección de avisos y actualizaciones en Cuenta. Recordatorios de vencimiento de la suscripción."
   },
-  "messages": []
+  "messages": [
+    {
+      "id": "bienvenida-20261117",
+      "title": "¡Bienvenido a MBOX-PLUS V2!",
+      "body": "Gracias por ser parte de MBOX-PLUS V2. Aquí recibirás novedades y recordatorios de tu suscripción. ¡Disfruta tu entretenimiento!",
+      "startsAt": 0,
+      "endsAt": 0
+    }
+  ]
 }
