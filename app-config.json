@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "expiryReminders": true,
+  "update": {
+    "versionCode": 90,
+    "versionName": "0.11.68",
+    "apkUrl": "https://casan0084-spec.github.io/mbox-config/mbox-plus.apk",
+    "sha256": "475ef6fdfb4ebe13d0ddcd23c0eafbf245666b7cd5b981994695558533b2212e",
+    "notes": "Nueva sección de avisos y actualizaciones en Cuenta. Recordatorios de vencimiento de la suscripción."
+  },
+  "messages": []
+}
