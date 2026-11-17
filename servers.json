@@ -1,6 +1,14 @@
 {
+  "schema_version": 1,
   "display_name": "MBOX PLUS",
   "servers": [
+    "https://privacypulse.cloud:443",
+    "http://livedttv.com:8080",
+    "https://api.arsupreme.com:443",
+    "http://moontoolsplayer.online:80",
+    "http://purpletv.dyndns.tv:8080",
+    "http://gotv.vip:80",
+    "https://legazplayandroid.xyz:8443",
     "http://imperium-tv.us:8080"
   ]
 }
