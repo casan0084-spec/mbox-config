@@ -2,11 +2,11 @@
   "schema": 1,
   "expiryReminders": true,
   "update": {
-    "versionCode": 96,
-    "versionName": "0.11.72",
+    "versionCode": 97,
+    "versionName": "0.11.73",
     "apkUrl": "https://casan0084-spec.github.io/mbox-config/mbox-plus.apk",
-    "sha256": "3ed9ff327e620fe79af41d006552e1a96792d15d900f7f6b2fea8156b8a69908",
-    "notes": "Nuevo icono y logo cuadrado con esquinas redondeadas. Se mantienen las categorias durante la reproduccion, los reportes a soporte y los 8 servidores."
+    "sha256": "cef635c9a21a9d559ae748a20a940ba666f7a626df6a2b27cd1d4d566b6a6769",
+    "notes": "Guia corregida, pantalla completa al navegar y panel de categorias mas legible. Se mantienen la reproduccion y los 8 servidores."
   },
   "messages": [
     {
