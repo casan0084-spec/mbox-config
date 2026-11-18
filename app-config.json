@@ -2,11 +2,11 @@
   "schema": 1,
   "expiryReminders": true,
   "update": {
-    "versionCode": 94,
+    "versionCode": 95,
     "versionName": "0.11.72",
     "apkUrl": "https://casan0084-spec.github.io/mbox-config/mbox-plus.apk",
-    "sha256": "de15e0c1d2a35d78a116bee0f496be71dab3653d4ee4ab48a7c96ebf36080719",
-    "notes": "Navega categorias y canales sin salir de la reproduccion. Envia reportes de canales directamente al soporte MBOX."
+    "sha256": "940488d8ee1db06e1e8fae219df2644e1c8fcbba45082e5afe33338b0aeda919",
+    "notes": "Nuevo icono y logo de caja roja glass. Se mantienen las categorias durante la reproduccion, los reportes a soporte y los 8 servidores."
   },
   "messages": [
     {
