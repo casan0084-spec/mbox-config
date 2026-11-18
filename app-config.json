@@ -8,6 +8,14 @@
     "sha256": "de15e0c1d2a35d78a116bee0f496be71dab3653d4ee4ab48a7c96ebf36080719",
     "notes": "Navega categorias y canales sin salir de la reproduccion. Envia reportes de canales directamente al soporte MBOX."
   },
-  "messages": [],
+  "messages": [
+    {
+      "startsAt": 0,
+      "id": "mbox-0-11-72-disponible-20261118",
+      "title": "¡MBOX-PLUS V2 0.11.72 ya está disponible!",
+      "endsAt": 0,
+      "body": "Navega por las categorías y elige otro canal sin salir de la reproducción. También puedes enviar reportes de canales directamente a soporte desde Más → Reportar canal.\n\nActualiza desde la app o usa el mismo código Downloader: 4534981."
+    }
+  ],
   "reportsUrl": "https://octo26-pc.tailcc5d07.ts.net:8443/v1/reports"
 }
