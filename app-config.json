@@ -11,10 +11,10 @@
   "messages": [
     {
       "startsAt": 0,
-      "id": "mbox-0-11-72-disponible-20261118",
-      "title": "¡MBOX-PLUS V2 0.11.72 ya está disponible!",
       "endsAt": 0,
-      "body": "Navega por las categorías y elige otro canal sin salir de la reproducción. También puedes enviar reportes de canales directamente a soporte desde Más → Reportar canal.\n\nActualiza desde la app o usa el mismo código Downloader: 4534981."
+      "id": "mbox-0-11-73-disponible-20261118",
+      "title": "¡MBOX-PLUS V2 0.11.73 ya está disponible!",
+      "body": "Ya está disponible la versión 0.11.73 con la guía corregida, un panel de categorías más claro y mejoras en pantalla completa. Navega por las categorías sin salir del canal que estás viendo.\n\nActualiza desde la app o usa el mismo código Downloader: 4534981."
     }
   ],
   "reportsUrl": "https://octo26-pc.tailcc5d07.ts.net:8443/v1/reports"
