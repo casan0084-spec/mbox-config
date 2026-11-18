@@ -2,11 +2,11 @@
   "schema": 1,
   "expiryReminders": true,
   "update": {
-    "versionCode": 95,
+    "versionCode": 96,
     "versionName": "0.11.72",
     "apkUrl": "https://casan0084-spec.github.io/mbox-config/mbox-plus.apk",
-    "sha256": "940488d8ee1db06e1e8fae219df2644e1c8fcbba45082e5afe33338b0aeda919",
-    "notes": "Nuevo icono y logo de caja roja glass. Se mantienen las categorias durante la reproduccion, los reportes a soporte y los 8 servidores."
+    "sha256": "3ed9ff327e620fe79af41d006552e1a96792d15d900f7f6b2fea8156b8a69908",
+    "notes": "Nuevo icono y logo cuadrado con esquinas redondeadas. Se mantienen las categorias durante la reproduccion, los reportes a soporte y los 8 servidores."
   },
   "messages": [
     {
