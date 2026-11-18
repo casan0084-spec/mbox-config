@@ -8,5 +8,6 @@
     "sha256": "66e8edd545aadbdfb38438e5d6ce99d4edfcd5cf143c5ce774c08c02bd0d1e86",
     "notes": "Los mensajes nuevos se consultan y muestran al abrir la app. Consulta en segundo plano y protección para no interrumpir videos."
   },
-  "messages": []
+  "messages": [],
+  "reportsUrl": "https://octo26-pc.tailcc5d07.ts.net:8443/v1/reports"
 }
