@@ -10,11 +10,11 @@
   },
   "messages": [
     {
+      "id": "mbox-0-11-82-disponible-20261119",
       "endsAt": 0,
       "startsAt": 0,
-      "title": "¡MBOX-PLUS V2 0.11.79 ya está disponible!",
-      "id": "mbox-0-11-79-disponible-20261119",
-      "body": "¡Actualiza MBOX-PLUS V2 a la versión 0.11.79! Disfruta de un inicio personalizado con tus canales y películas más vistos, una pantalla de inicio de sesión renovada y la corrección para desactivar los subtítulos, incluidos los forzados.\n\nActualiza desde la app o usa el mismo código Downloader: 4534981."
+      "body": "Ya está disponible la versión 0.11.82 con el buscador corregido: se solucionó el cierre de la app al mostrar resultados repetidos.\n\nPuedes actualizar desde la aplicación o usar el mismo código Downloader: 4534981.",
+      "title": "¡MBOX-PLUS V2 0.11.82 ya está disponible!"
     }
   ],
   "reportsUrl": "https://octo26-pc.tailcc5d07.ts.net:8443/v1/reports"
