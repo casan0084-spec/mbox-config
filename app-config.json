@@ -2,11 +2,11 @@
   "schema": 1,
   "expiryReminders": true,
   "update": {
-    "versionCode": 97,
-    "versionName": "0.11.73",
+    "versionCode": 103,
+    "versionName": "0.11.79",
     "apkUrl": "https://casan0084-spec.github.io/mbox-config/mbox-plus.apk",
-    "sha256": "cef635c9a21a9d559ae748a20a940ba666f7a626df6a2b27cd1d4d566b6a6769",
-    "notes": "Guia corregida, pantalla completa al navegar y panel de categorias mas legible. Se mantienen la reproduccion y los 8 servidores."
+    "sha256": "e1af065c3892d33bd038c80f0c9c4f322ba1ac75305d8a292ca1bfd44746a063",
+    "notes": "Inicio personalizado con tus canales y peliculas mas vistos en este dispositivo; se aprende desde esta version. Destacados identificados como 2026, colores mas sobrios, mejoras de acceso, servicios guardados, navegacion de peliculas y series y correccion para apagar subtitulos forzados. La configuracion actual de servidores se mantiene."
   },
   "messages": [
     {
