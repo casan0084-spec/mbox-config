@@ -2,11 +2,11 @@
   "schema": 1,
   "expiryReminders": true,
   "update": {
-    "versionCode": 109,
-    "versionName": "0.11.85",
+    "versionCode": 110,
+    "versionName": "0.11.86",
     "apkUrl": "https://casan0084-spec.github.io/mbox-config/mbox-plus.apk",
-    "sha256": "294c9445489e5081059bb53ab646685aa4800c5cbf273cc52dc172bf64b7082e",
-    "notes": "Nuevo diseño integrado con el logo: colores negro, rojo y blanco, login renovado y zona Niños después de PPV. Mejoras de navegación de canales. Actualiza desde la aplicación o con Downloader, código 4534981. No desinstales: instala sobre la versión actual para conservar cuenta y configuración."
+    "sha256": "c71e27d6fd7aa9c2d42570c2ef50ba5224f74772efe306c604ed148670390de6",
+    "notes": "Nueva sección Ajustes (Settings), organizada por servicio, seguridad, preferencias, reproducción y ayuda. Botones más compactos, textos más claros e icono de osito para la zona Niños. Actualiza desde la aplicación o con Downloader, código 4534981. No desinstales: instala sobre la versión actual para conservar cuenta y configuración."
   },
   "messages": [
     {
