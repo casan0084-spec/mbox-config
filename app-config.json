@@ -2,11 +2,11 @@
   "schema": 1,
   "expiryReminders": true,
   "update": {
-    "versionCode": 107,
-    "versionName": "0.11.83",
+    "versionCode": 109,
+    "versionName": "0.11.85",
     "apkUrl": "https://casan0084-spec.github.io/mbox-config/mbox-plus.apk",
-    "sha256": "5174b8d1a173861b3febc6cddda74e232c117b84d51084e8dad90f2d7033959b",
-    "notes": "Actualizaciones dentro de MBOX-PLUS V2: descarga y verifica el APK sin navegador y abre la confirmacion de instalacion de Android. No desinstales la app; instala sobre la version actual para conservar cuenta y configuracion. Para incorporar esta mejora desde versiones anteriores en Fire TV, usa Downloader con el codigo 4534981. Servidores y reproduccion sin cambios."
+    "sha256": "294c9445489e5081059bb53ab646685aa4800c5cbf273cc52dc172bf64b7082e",
+    "notes": "Nuevo diseño integrado con el logo: colores negro, rojo y blanco, login renovado y zona Niños después de PPV. Mejoras de navegación de canales. Actualiza desde la aplicación o con Downloader, código 4534981. No desinstales: instala sobre la versión actual para conservar cuenta y configuración."
   },
   "messages": [
     {
