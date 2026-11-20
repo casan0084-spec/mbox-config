@@ -2,11 +2,11 @@
   "schema": 1,
   "expiryReminders": true,
   "update": {
-    "versionCode": 106,
-    "versionName": "0.11.82",
+    "versionCode": 107,
+    "versionName": "0.11.83",
     "apkUrl": "https://casan0084-spec.github.io/mbox-config/mbox-plus.apk",
-    "sha256": "323eb1a2935e6181306640cc89943e0cfb9a00e81081096eea9b89b7db83846d",
-    "notes": "Buscador corregido: evita cierres por resultados repetidos. Inicio con carrusel 2026, lo mas visto personal, peliculas y episodios recientes. En TV en vivo, las flechas navegan; primer OK selecciona el canal y segundo OK abre pantalla completa. Conserva cuenta, configuracion de servidores y motor de reproduccion."
+    "sha256": "5174b8d1a173861b3febc6cddda74e232c117b84d51084e8dad90f2d7033959b",
+    "notes": "Actualizaciones dentro de MBOX-PLUS V2: descarga y verifica el APK sin navegador y abre la confirmacion de instalacion de Android. No desinstales la app; instala sobre la version actual para conservar cuenta y configuracion. Para incorporar esta mejora desde versiones anteriores en Fire TV, usa Downloader con el codigo 4534981. Servidores y reproduccion sin cambios."
   },
   "messages": [
     {
