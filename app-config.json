@@ -2,11 +2,11 @@
   "schema": 1,
   "expiryReminders": true,
   "update": {
-    "versionCode": 114,
-    "versionName": "0.11.90",
+    "versionCode": 116,
+    "versionName": "0.11.92",
     "apkUrl": "https://casan0084-spec.github.io/mbox-config/mbox-plus.apk",
-    "sha256": "0a0c6ae914cc5535e942866b5e65e06bbb002a92ea219c47335da234d35c70e0",
-    "notes": "Corregido el cierre al navegar por Series cuando el catálogo contiene entradas repetidas. Actualiza desde la aplicación o con Downloader, código 4534981. No desinstales: instala sobre la versión actual para conservar cuenta y configuración."
+    "sha256": "a04187e3e1723fa6a5079a6d6e69e5de25cd3a9845fce89c450995f65b0702c2",
+    "notes": "Corregido el salto de selección al carrusel mientras navegas por Inicio y reforzada la protección contra entradas repetidas en Películas y Series. Actualiza desde la aplicación o con Downloader, código 4534981. No desinstales: instala sobre la versión actual para conservar cuenta y configuración."
   },
   "messages": [
     {
