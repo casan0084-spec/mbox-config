@@ -10,11 +10,11 @@
   },
   "messages": [
     {
-      "id": "mbox-0-11-82-disponible-20261119-v2",
-      "endsAt": 0,
+      "title": "¡MBOX-PLUS V2 0.11.90 ya está disponible!",
+      "body": "Se corrigió el cierre de la app al navegar por Series.\n\nActualiza desde la aplicación con el botón «Descargar actualización» o usa Downloader con el código 4534981.\n\nIMPORTANTE: No desinstales la app. Instala la actualización sobre la versión actual para conservar tu cuenta y configuración.",
+      "id": "mbox-0-11-90-disponible-20261123",
       "startsAt": 0,
-      "body": "Ya está disponible la versión 0.11.82 con el buscador corregido: se solucionó el cierre de la app al mostrar resultados repetidos.\n\nIMPORTANTE: No desinstales la app. Pulsa «Descargar actualización» dentro de la aplicación y completa la instalación sobre la versión que ya tienes para conservar tu cuenta y configuración.\n\nTambién puedes descargar la actualización con el mismo código Downloader: 4534981, e instalarla sin desinstalar la versión actual.",
-      "title": "¡MBOX-PLUS V2 0.11.82 ya está disponible!"
+      "endsAt": 0
     }
   ],
   "reportsUrl": "https://octo26-pc.tailcc5d07.ts.net:8443/v1/reports"
