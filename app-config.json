@@ -2,11 +2,11 @@
   "schema": 1,
   "expiryReminders": true,
   "update": {
-    "versionCode": 111,
-    "versionName": "0.11.87",
+    "versionCode": 114,
+    "versionName": "0.11.90",
     "apkUrl": "https://casan0084-spec.github.io/mbox-config/mbox-plus.apk",
-    "sha256": "8ee3bfe2b691763575ec16d82cfe191e670f3f49d4091eaed5eae9fb759a403c",
-    "notes": "Reportes de soporte con identificación del panel (L: Gazy, G: Imperium) y categoría obtenida del catálogo local cuando está disponible. Actualiza desde la aplicación o con Downloader, código 4534981. No desinstales: instala sobre la versión actual para conservar cuenta y configuración."
+    "sha256": "0a0c6ae914cc5535e942866b5e65e06bbb002a92ea219c47335da234d35c70e0",
+    "notes": "Corregido el cierre al navegar por Series cuando el catálogo contiene entradas repetidas. Actualiza desde la aplicación o con Downloader, código 4534981. No desinstales: instala sobre la versión actual para conservar cuenta y configuración."
   },
   "messages": [
     {
