@@ -17,5 +17,12 @@
       "endsAt": 0
     }
   ],
-  "reportsUrl": "https://octo26-pc.tailcc5d07.ts.net:8443/v1/reports"
+  "reportsUrl": "https://octo26-pc.tailcc5d07.ts.net:8443/v1/reports",
+  "blackBoxUpdate": {
+    "versionCode": 116,
+    "versionName": "0.11.92",
+    "apkUrl": "https://casan0084-spec.github.io/mbox-config/black-box-plus.apk",
+    "sha256": "4ccfb1df690bf9a1b17035b21113f35b46d5b16b2799864cfe20e281f41f016a",
+    "notes": "Black-Box Plus: identidad visual independiente. Instala las próximas actualizaciones sobre la aplicación actual para conservar tu cuenta y configuración."
+  }
 }
