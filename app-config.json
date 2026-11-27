@@ -2,11 +2,11 @@
   "schema": 1,
   "expiryReminders": true,
   "update": {
-    "versionCode": 116,
-    "versionName": "0.11.92",
+    "versionCode": 121,
+    "versionName": "0.11.97",
     "apkUrl": "https://casan0084-spec.github.io/mbox-config/mbox-plus.apk",
-    "sha256": "a04187e3e1723fa6a5079a6d6e69e5de25cd3a9845fce89c450995f65b0702c2",
-    "notes": "Corregido el salto de selección al carrusel mientras navegas por Inicio y reforzada la protección contra entradas repetidas en Películas y Series. Actualiza desde la aplicación o con Downloader, código 4534981. No desinstales: instala sobre la versión actual para conservar cuenta y configuración."
+    "sha256": "a5d6677b423934a81af776d5f18f59d5c9fb1e42eecc065d20274b022d366b0b",
+    "notes": "Diseño glass optimizado, reconexión automática mejorada y caché del catálogo de películas y series. Actualiza desde la aplicación o con Downloader, código 4534981. No desinstales: instala sobre la versión actual para conservar cuenta y configuración."
   },
   "messages": [
     {
