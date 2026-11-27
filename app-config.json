@@ -2,11 +2,11 @@
   "schema": 1,
   "expiryReminders": true,
   "update": {
-    "versionCode": 121,
-    "versionName": "0.11.97",
+    "versionCode": 122,
+    "versionName": "0.11.98",
     "apkUrl": "https://casan0084-spec.github.io/mbox-config/mbox-plus.apk",
-    "sha256": "a5d6677b423934a81af776d5f18f59d5c9fb1e42eecc065d20274b022d366b0b",
-    "notes": "Diseño glass optimizado, reconexión automática mejorada y caché del catálogo de películas y series. Actualiza desde la aplicación o con Downloader, código 4534981. No desinstales: instala sobre la versión actual para conservar cuenta y configuración."
+    "sha256": "d60e53731bfb5dbf414d3339a76615d0932a99bc5bde9a24f1654311b268a7d1",
+    "notes": "Avisos para clientes existentes, una sola vez por cuenta en este dispositivo. Incluye las mejoras de diseño y reconexión de la versión 0.11.97. Actualiza desde la aplicación o con Downloader, código 4534981. No desinstales: instala sobre la versión actual para conservar cuenta y configuración."
   },
   "messages": [
     {
@@ -24,5 +24,16 @@
     "apkUrl": "https://casan0084-spec.github.io/mbox-config/black-box-plus.apk",
     "sha256": "2898a2aa6b9abb982db787c03030d4d0153d8f255de9fb820f1c928095899ec2",
     "notes": "Mejorada la reconexión automática de canales en vivo y la carga del catálogo de películas y series. Diseño glass optimizado. Actualiza desde la aplicación o con Downloader, código 7082901. No desinstales para conservar tu cuenta y configuración."
-  }
+  },
+  "mboxAccountMessagesV1": [
+    {
+      "body": "Diseño glass optimizado, mejoras en la reconexión automática de canales y en la carga del catálogo de películas y series.\n\nActualiza a la versión más reciente desde la app o con Downloader usando el código 4534981.\n\nNO DESINSTALES la app. Actualiza sobre la versión actual para conservar tu cuenta y configuración.",
+      "id": "mbox-01197-existing-v1",
+      "title": "MBOX PLUS: mejoras de la versión 0.11.97",
+      "audience": "existing_installations",
+      "endsAt": 0,
+      "installedBefore": 1795837419,
+      "startsAt": 0
+    }
+  ]
 }
