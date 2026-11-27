@@ -19,10 +19,10 @@
   ],
   "reportsUrl": "https://octo26-pc.tailcc5d07.ts.net:8443/v1/reports",
   "blackBoxUpdate": {
-    "versionCode": 116,
-    "versionName": "0.11.92",
+    "versionCode": 121,
+    "versionName": "0.11.97",
     "apkUrl": "https://casan0084-spec.github.io/mbox-config/black-box-plus.apk",
-    "sha256": "4ccfb1df690bf9a1b17035b21113f35b46d5b16b2799864cfe20e281f41f016a",
-    "notes": "Black-Box Plus: identidad visual independiente. Instala las próximas actualizaciones sobre la aplicación actual para conservar tu cuenta y configuración."
+    "sha256": "2898a2aa6b9abb982db787c03030d4d0153d8f255de9fb820f1c928095899ec2",
+    "notes": "Mejorada la reconexión automática de canales en vivo y la carga del catálogo de películas y series. Diseño glass optimizado. Actualiza desde la aplicación o con Downloader, código 7082901. No desinstales para conservar tu cuenta y configuración."
   }
 }
