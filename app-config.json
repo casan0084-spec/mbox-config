@@ -19,11 +19,11 @@
   ],
   "reportsUrl": "https://octo26-pc.tailcc5d07.ts.net:8443/v1/reports",
   "blackBoxUpdate": {
-    "versionCode": 121,
-    "versionName": "0.11.97",
+    "versionCode": 123,
+    "versionName": "0.11.99",
     "apkUrl": "https://casan0084-spec.github.io/mbox-config/black-box-plus.apk",
-    "sha256": "2898a2aa6b9abb982db787c03030d4d0153d8f255de9fb820f1c928095899ec2",
-    "notes": "Mejorada la reconexión automática de canales en vivo y la carga del catálogo de películas y series. Diseño glass optimizado. Actualiza desde la aplicación o con Downloader, código 7082901. No desinstales para conservar tu cuenta y configuración."
+    "sha256": "0e538da73545bb34f6e56759f82e65735a499c0d99c5d26679805eb476a81e18",
+    "notes": "Mejorada la reconexiÃ³n automÃ¡tica de canales en vivo y la carga del catÃ¡logo de pelÃ­culas y series. DiseÃ±o glass optimizado. Actualiza desde la aplicaciÃ³n o con Downloader, cÃ³digo 7082901. No desinstales para conservar tu cuenta y configuraciÃ³n."
   },
   "mboxAccountMessagesV1": [
     {
