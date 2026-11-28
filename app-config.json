@@ -2,11 +2,11 @@
   "schema": 1,
   "expiryReminders": true,
   "update": {
-    "versionCode": 122,
-    "versionName": "0.11.98",
+    "versionCode": 123,
+    "versionName": "0.11.99",
     "apkUrl": "https://casan0084-spec.github.io/mbox-config/mbox-plus.apk",
-    "sha256": "d60e53731bfb5dbf414d3339a76615d0932a99bc5bde9a24f1654311b268a7d1",
-    "notes": "Avisos para clientes existentes, una sola vez por cuenta en este dispositivo. Incluye las mejoras de diseño y reconexión de la versión 0.11.97. Actualiza desde la aplicación o con Downloader, código 4534981. No desinstales: instala sobre la versión actual para conservar cuenta y configuración."
+    "sha256": "cfaba385da08fec4ba34a0c9fff22dc75c6bbdc0dd9f48594fd54a236ac92b49",
+    "notes": "Menú más fácil de identificar: PPV en amarillo dorado con EVENTS debajo y Kids con letras de colores. Actualiza desde la aplicación o con Downloader, código 4534981. No desinstales: instala sobre la versión actual para conservar cuenta y configuración."
   },
   "messages": [
     {
